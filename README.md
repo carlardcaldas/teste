@@ -1,2 +1,0 @@
-# teste-gupy
-Teste-gupy
